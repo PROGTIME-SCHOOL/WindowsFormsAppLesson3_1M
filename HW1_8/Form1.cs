@@ -16,5 +16,27 @@ namespace HW1_8
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            button2.Visible = false;
+
+            button2.Left = button1.Left;
+            button2.Top = button1.Top;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1.ActiveForm.BackColor = Color.Black;
+            button1.Visible = false;
+            button2.Visible = true;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1.ActiveForm.BackColor = Color.White;
+            button2.Visible = false;
+            button1.Visible = true;
+        }
     }
 }

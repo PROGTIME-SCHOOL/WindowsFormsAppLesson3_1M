@@ -1,0 +1,11 @@
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\bin\Debug\HW1_8.exe.config
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\bin\Debug\HW1_8.exe
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\bin\Debug\HW1_8.pdb
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\obj\Debug\HW1_8.csproj.AssemblyReference.cache
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\obj\Debug\HW1_8.csproj.SuggestedBindingRedirects.cache
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\obj\Debug\HW1_8.Form1.resources
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\obj\Debug\HW1_8.Properties.Resources.resources
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\obj\Debug\HW1_8.csproj.GenerateResource.cache
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\obj\Debug\HW1_8.csproj.CoreCompileInputs.cache
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\obj\Debug\HW1_8.exe
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\HW1_8\obj\Debug\HW1_8.pdb

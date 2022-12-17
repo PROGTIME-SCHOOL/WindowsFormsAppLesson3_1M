@@ -1,0 +1,11 @@
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\bin\Debug\CalcilatorApp.exe.config
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\bin\Debug\CalcilatorApp.exe
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\bin\Debug\CalcilatorApp.pdb
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\obj\Debug\CalcilatorApp.csproj.AssemblyReference.cache
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\obj\Debug\CalcilatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\obj\Debug\CalcilatorApp.Form1.resources
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\obj\Debug\CalcilatorApp.Properties.Resources.resources
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\obj\Debug\CalcilatorApp.csproj.GenerateResource.cache
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\obj\Debug\CalcilatorApp.csproj.CoreCompileInputs.cache
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\obj\Debug\CalcilatorApp.exe
+C:\Users\viosagmir\source\repos\WindowsFormsAppLesson3_1M\CalcilatorApp\obj\Debug\CalcilatorApp.pdb
